@@ -1,2 +1,2 @@
 # ROAD-OBJECT-DETECTION-USING-OpenCV
-This project detects the number of vehicle and gives the count.
+This is a project based on OpenCV which takes a video clip as an input and gives the total count of vehicles passing through.
